@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        hallo this is my first commit
+        я твой враг
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
