@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        я твой враг
+        я твой враг NA VEKI
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
